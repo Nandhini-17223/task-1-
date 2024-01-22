@@ -1,0 +1,19 @@
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightblue;
+}
+
+header{
+    color: darkorange;
+    text-align: center;
+}
+
+.one{
+    color: blue;
+}
+
+table ,th,tr,td{
+    color: brown;
+    padding: 10px;
+}
